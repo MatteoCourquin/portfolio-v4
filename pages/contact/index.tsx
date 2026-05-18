@@ -32,7 +32,7 @@ export default function Contact(_: { paths: TypePaths[] }) {
               />
               <Button
                 as="a"
-                href="https://cal.com/matteo-courquin/30min"
+                href="https://cal.com/metabole-matteo"
                 target="_blank"
                 size={BUTTON_SIZE.L}
                 type={BUTTON_TYPE.SECONDARY}
