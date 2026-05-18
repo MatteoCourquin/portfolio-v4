@@ -77,7 +77,7 @@
         "error": "ERROR"
       }
     },
-    "consultation": "or take a <a class='underline' href='https://cal.com/metabole-matteo' target='_blank'>meeting</a>",
+    "consultation": "or take a <a class='underline' href='https://cal.com/metabole-matteo/intro' target='_blank'>meeting</a>",
     "bookConsultation": "Book a call"
   },
   "success": {
