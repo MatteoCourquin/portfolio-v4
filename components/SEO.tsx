@@ -29,9 +29,9 @@ const SEO = ({
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={image} />
 
-      <meta name="google-site-verification" content="6n81QjyK4C02a8g9mMeuhdHqnAcjhHRxsGVdgXVGQ2Y" />
-      <meta name="google-site-verification" content="6n81QjyK4C02a8g9mMeuhdHqnAcjhHRxsGVdgXVGQ2Y" />
-      <meta name="google-site-verification" content="TWSPNgs8XAz8cXg2sROJAqBJg4ybaqxbPcsu-1LrCpI" />
+      {/* <meta name="google-site-verification" content="6n81QjyK4C02a8g9mMeuhdHqnAcjhHRxsGVdgXVGQ2Y" /> */}
+      {/* <meta name="google-site-verification" content="6n81QjyK4C02a8g9mMeuhdHqnAcjhHRxsGVdgXVGQ2Y" /> */}
+      {/* <meta name="google-site-verification" content="TWSPNgs8XAz8cXg2sROJAqBJg4ybaqxbPcsu-1LrCpI" /> */}
 
       <meta
         name="keywords"
